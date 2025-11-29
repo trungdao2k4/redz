@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/traurobloxdeptrai/traukhoaito/refs/heads/main/trauredzupv4.lua'))()
